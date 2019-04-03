@@ -1,0 +1,8 @@
+Hi, 
+
+these are the contents of the test.txt file; me.
+By the time you read this, i am probably long closed.
+At least i hope so.
+
+Farewell,
+test.txt

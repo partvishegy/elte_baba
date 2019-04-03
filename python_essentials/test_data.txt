@@ -1,0 +1,4 @@
+fruit; number; like
+apple; 3; meh
+pear; 4; yes
+pineapple; 0; hmmm
